@@ -25,7 +25,7 @@
 
 ## ファイル構成（主要）
 
-- `LLMATCH_kadai_Gemma3.ipynb`: 推論・評価処理を記述したColabノートブック
+- `LLMATCH_kadai_Gemma3.ipynb`: 推論・評価処理を記述したノートブック
 - `README.md`: このファイル
 
 ---
